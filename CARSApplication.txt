@@ -1,0 +1,16 @@
+Project Name: GE Power Thermal Support – CARS Application
+Role: Pega Developer and Support Representative
+
+Experience summary:
+
+•	A lot of approval mechanisms involved in this CARS workflow. I have worked upon several decision rules for making time to time modifications to approval hierarchies.
+•	Worked on access issues which include creation of Operator IDs and access groups. 
+•	I have been a part of application upgrade from Pega 5.x to 7.x. 
+•	Experienced in exporting and importing rules by various methods like creating a product or through default export/import mechanism
+•	Being part of application team, worked collaboratively with Web team and DB team and provided solutions for middleware issues
+•	Involve in every face of project starting from Designing till migration.
+•	Good experience in database programming using SQL
+•	Designed and implemented User Interfaces using Sections, Harness
+•	Created Rule sets and Versions as required
+•	Created Activities, steps and methods and calling other activities for implementing core business logic.
+•	Involved in troubleshooting the issues using PRPC tools Rules Inspector, Clipboard, Tracer,  DB Tracer

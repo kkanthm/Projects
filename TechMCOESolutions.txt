@@ -1,0 +1,12 @@
+Project Name: Tech Mahindra COE Solutions (Tech Mahindra Internal)
+Role: Web and Linux Administrator
+
+Experience Summary: 
+•	WebApp installation and configuration on various application servers like Tomcat, JBOSS, WebSphere, WebLogic
+•	Maintained Pega application Internal servers and continuous monitoring
+•	Hands on experience in Linux Server Administration
+•	Experience knowledge of RHEL 5/6 Linux system administration, providing and Managing User/ Group Administration and file/ directory permissions
+•	Expertise to manage file systems on Linux server environment Proficiency in managing the swap configuration
+•	Good knowledge in Technical review, understanding the exact requirement and preparing plan in installing, moving/upgrading the servers
+•	Expertise to manage file systems on Linux server environment 
+•	Good overview on Pega System Management Application

@@ -1,0 +1,17 @@
+Project Name: GE Power Pega Operations Team
+Role: Pega Administrator and Support
+
+Experience Summary: 
+•	Monitored and had an end-to-end view on several Pega BPM applications in server and database perspectives
+•	Worked on Pega application deployment in JBOSS application server and had done troubleshoot on that environment
+•	Monitored CPU usages/fluctuations and Java Heap space hikes using Java Visual VM during data migration runs
+•	Dealt with physical UNIX machine outages on which app servers and database servers hosted.
+•	Collaborated with web team and DB team when application servers have gone down during the production
+•	Worked on the ticketing tool (Service now) to raise tickets on other teams and to assign tickets which are assigned to our team
+•	Generated server performance reports monthly 
+•	Raised support requests and followed up with Pega team regarding the defects in the application/product
+•	Worked on Import/Export mechanism in the tool with which we can move rules across the platforms
+•	Created products and jar files of bundled rules in the Pega application portal to re-use rules in the other environment instead of creating again
+•	Installed several hotfixes provided by Pega team for the defects in the earlier versions of Pega
+•	Monitored application performance using SMA (System Management Application) which comes with the every Pega product
+•	Participated in the Pega application migration from 5.x to 7.x and 6.x to 7.x

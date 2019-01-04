@@ -1,0 +1,23 @@
+Professional Summary
+•	Started career as Associate Software Engineer in September 2014 and Trained upon Java and web technologies
+•	Having over 3.5 years of experience in IT service industry
+•	Worked on Full Stack development of web projects, and good understanding of overall architecture of a project
+•	Good understating of Java/J2EE technologies
+•	Problem Solving experience in Python 3
+•	Solved more than 50 challenges (Python Module) and got a Gold Badge in online coding platform ‘HackerRank’
+•	Good knowledge on Programming Design patterns – Model-View-Controller, Data-Access-Object.
+•	Involved in various Enhancements/Development, Support & Maintenance, and Implementation type of projects. Possess good technical skills in web and BPM Tools including PEGA PRPC
+•	Part of 5- member team, which developed a placement portal for our college. We used HTML, JavaScript and CSS for front end and PHP for backend and Oracle as database. 
+•	Experienced end-to-end development of a web application
+•	Developed Alexa Skills and integrated Amazon Virtual Assistant Alexa to Pega application to get the work done over voice.
+•	Direct Hands-on on Application Server Startups with Tomcat, JBOSS, WebSphere and WebLogic
+•	Hands-On with Oracle database and Administration with good knowledge on backup variants.
+•	Developed a case study which is a Vehicle management application developed on Java and web technologies
+•	Design and Create Rules, Cases, Flows, Activities, Soap Services, Connectors, Data transforms, Data Pages etc.
+•	Experience in troubleshooting & performance tuning of PRPC applications using Clipboard, Tracer.
+•	Involved in the Creation of Access groups, Workgroup and creating the different operator IDs
+•	Good Knowledge on Server Infrastructure and the need of various Hardware in the build
+•	Able to understand the concepts of networking and security hardening.
+•	Mentored in Server administration and PEGA BPM with Application Server and DB Architecture in detail
+•	Good Understanding on Application Performance and maintenance with utilization of PEGA tools like PAL, PLA, prefetch, tracer and SMA
+•	Good Knowledge on PEGA AES. Hands-on on installation and configuration.
